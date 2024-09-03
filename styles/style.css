@@ -12,7 +12,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #10214e;
+  color: #021f6f;
 }
 
 article {
@@ -25,7 +25,7 @@ article {
   max-width: 25em;
   min-width: 20em;
   border-radius: 1rem;
-  background: rgb(0,239,255);
+  background:<img alt src="https://i.pinimg.com/736x/51/bb/99/51bb996c4e4749a8c7c981d89ccbb920.jpg">
   background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
   box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
   transition: .25s;
@@ -62,7 +62,7 @@ button:focus {
   background: #202592;
 }
 button:focus svg {
-  stroke: rgba(0,239,255,1);
+  stroke: rgb(5, 24, 148);
 }
 
 svg {
