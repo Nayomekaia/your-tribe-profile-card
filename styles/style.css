@@ -24,10 +24,10 @@ article {
   width: 50vw;
   max-width: 25em;
   min-width: 20em;
-  border-radius: 1rem;
-  background:
-  background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
-  box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
+  border-radius: 8rem;
+  background: rgb(208, 3, 3);
+  background: linear-gradient(0deg, rgba(150, 8, 8, 0.428) 40%, #d15757 85%);
+  box-shadow: 0 0 20px 20px rgba(0, 0, 0, .1);
   transition: .25s;
 }
 
