@@ -146,7 +146,7 @@ article > p {
 
 /* expand content */
 body.expand {
-  font-size: 1.15em;
+  font-size: medium
 }
 
 body.expand article {
