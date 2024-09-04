@@ -1,9 +1,9 @@
-body(
+body{
 display: flex;
 align-items: center;
 justfy-content: center;
 min-height: 90hv;
 color: #000;
-)
+}
 
 
