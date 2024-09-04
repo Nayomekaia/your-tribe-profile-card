@@ -9,5 +9,9 @@ justify-content: center;
 min-height: 90vh;
 color: #000;
 }
+.flipcontainer{
+    perspective: 1000px;
+}
+
 
 
