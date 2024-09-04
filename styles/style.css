@@ -1,7 +1,11 @@
+* {
+    box-sizing: border-box;
+   }
+   
 body{
 display: flex;
-align-items: right;
-justify-content: right;
+align-items: center;
+justify-content: center;
 min-height: 90vh;
 color: #000;
 }
