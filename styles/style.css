@@ -1,7 +1,5 @@
-* {
-    box-sizing: border-box;
-   }
-   
+@import url(http://fonts.googleleapis.com/css?family=lato);
+
 body{
 display: flex;
 align-items: center;
