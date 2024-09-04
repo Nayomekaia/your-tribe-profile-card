@@ -12,6 +12,11 @@ color: #000;
 .flipcontainer{
     perspective: 1000px;
 }
-
-
+.front{
+background-image: url(src="https://i.pinimg.com/236x/2f/3a/6d/2f3a6d1f1fe892394b6a480c4c724f2f.jpg");
+background-size: cover;
+box-shadow: 0 15px 25px rgba(0, 0, 0, 0,5)
+z-index: 2;
+transform: rotateY(0deg);
+}
 
