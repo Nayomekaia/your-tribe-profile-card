@@ -51,13 +51,15 @@ h2 {
   transform: rotateY(180deg);
 }
 p:nth-of-type(1){
-    display:flex
+    display:flex;
     font-size: 1,5em;
+    display: flex;
     margin-block-start: -2em;
-    margin-block-end: 3em;
-    margin-inline-start: 120px;
-    margin-inline-end: 8px;
-    color:ghostwhite
+    margin-block-end: 1em;
+    margin-inline-start: 131px;
+    margin-inline-end: 0px;
+    color: ghostwhite; 
+}
 
 
 p:nth-of-type(2){
@@ -78,7 +80,7 @@ p:nth-of-type(3){
   margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
-  color:ghostwhite
+  color:ghostwhite;
 }
   
   p:nth-of-type(4){
@@ -88,7 +90,7 @@ p:nth-of-type(3){
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    color:ghostwhite
+    color:ghostwhite;
   }  
 
 p:{
