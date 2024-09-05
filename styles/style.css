@@ -50,7 +50,7 @@ h2 {
   color: white;
   transform: rotateY(180deg);
 
-.p1{
+p1{
   display:flex;
   margin-block-start: 1em;
   margin-block-end: 1em;
