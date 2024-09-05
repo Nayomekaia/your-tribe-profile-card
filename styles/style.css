@@ -50,7 +50,7 @@ h2 {
   color: white;
   transform: rotateY(180deg);
 
-p1{
+.p1 {
   display:flex;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -58,7 +58,7 @@ p1{
   margin-inline-end: 0px;
   unicode-bidi flex: ;
 }
-.p2{
+.p2 {
   display:flex;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -66,7 +66,7 @@ p1{
   margin-inline-end: 0px;
   unicode-bidi flex: ;
 }
-.p3{
+.p3 {
   display:flex;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -75,7 +75,7 @@ p1{
   unicode-bidi flex: ;
 }
 
-.p4{
+.p4 {
   display:flex;
   margin-block-start: 1em;
   margin-block-end: 1em;
