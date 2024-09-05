@@ -51,18 +51,18 @@ h2 {
   transform: rotateY(180deg);
 }
 p:nth-of-type(1){
-  font-size:1,5em;
-  display: flex;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  color:ghostwhite
+    display:flex
+    font-size: 1,5em;
+    margin-block-start: -2em;
+    margin-block-end: 3em;
+    margin-inline-start: 120px;
+    margin-inline-end: 8px;
+    color:ghostwhite
 
 
 p:nth-of-type(2){
-  font-size:1,5em;
   display: flex;
+  font-size:1,5em;
   margin-block-start: 1em;
   margin-block-end: 1em;
   margin-inline-start: 0px;
@@ -90,3 +90,7 @@ p:nth-of-type(3){
     margin-inline-end: 0px;
     color:ghostwhite
   }  
+
+p:{
+  font-size:1,5em
+}
