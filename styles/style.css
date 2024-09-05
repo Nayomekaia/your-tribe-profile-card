@@ -49,4 +49,7 @@ h2 {
   background-color: #022f71;
   color: white;
   transform: rotateY(180deg);
-
+}
+p:last-of-type{
+  font-size:2.6em;
+}
