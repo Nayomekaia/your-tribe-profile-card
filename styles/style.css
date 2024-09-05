@@ -50,6 +50,8 @@ h2 {
   color: white;
   transform: rotateY(180deg);
 }
-p:last-of-type{
+p:nth-of-type(1){
   font-size:2.6em;
+
+
 }
