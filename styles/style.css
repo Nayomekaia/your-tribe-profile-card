@@ -33,11 +33,6 @@
   color: black;
 }
 
-.flip-card-back {
-  background-color: #022f71;
-  color: white;
-  transform: rotateY(180deg);
-}
 h2 {
   display: flex;
   font-size: 2.6em;
@@ -48,4 +43,18 @@ h2 {
   font-weight: bold;
   unicode-bidi: isolate;
   color: rgb(224 239 0 / 75%);
+}
+
+.flip-card-back {
+  background-color: #022f71;
+  color: white;
+  transform: rotateY(180deg);
+
+p {
+  display:flex;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi flex: ;
 }
