@@ -104,12 +104,12 @@ p:nth-of-type(3){
   }  
 
   .icons{
-  display: flex;
-  margin-block-start: -1em;
-  margin-block-end: 2em;
-  margin-inline-start: 33px;
-  margin-inline-end: 0px;
-  color: ghostwhite;
+    display: flex;
+    margin-block-start: -2em;
+    margin-block-end: 2em;
+    margin-inline-start: 27px;
+    margin-inline-end: 0px;
+    color: ghostwhite;
   }  
 .img { 
   width: 100px;
