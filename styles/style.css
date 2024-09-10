@@ -112,7 +112,7 @@ p:nth-of-type(3){
     color: ghostwhite;
   }  
 .profile picture {
-  overflow-clip-margin: content-box;
+  overflow-clip-margin: flex;
   overflow: clip;
   overflow-x: 0px ;
   overflow-y:0px ;
