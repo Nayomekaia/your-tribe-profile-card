@@ -1,8 +1,11 @@
 
+.body
+text-align: center;
+
 .flip-card {
   background-color: transparent;
-  width: 300px;
-  height: 300px;
+  width: 554px;
+  height: 341px;
   perspective: 1000px;
 }
 
