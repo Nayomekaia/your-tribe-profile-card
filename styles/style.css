@@ -111,9 +111,10 @@ p:nth-of-type(3){
     margin-inline-end: 0px;
     color: ghostwhite;
   }  
-.img { 
-  width: 100px;
-  height: 100px;
+.profile picture{ 
+  left 
+  width: 150px;
+  height: 150px;
   aspect-ratio: flex;
 }
 
