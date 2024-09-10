@@ -111,10 +111,10 @@ p:nth-of-type(3){
     margin-inline-end: 0px;
     color: ghostwhite;
   }  
-.profile picture{ 
-  left 
-  width: 150px;
-  height: 150px;
-  aspect-ratio: flex;
+.profile picture {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+  overflow-x: 1px ;
+  overflow-y:1px ;
 }
 
