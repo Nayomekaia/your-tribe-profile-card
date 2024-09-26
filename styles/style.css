@@ -1,6 +1,6 @@
 /* Corrected body styling */
 body {
-  background-color: black;
+  background-color: rgb(7, 0, 44);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -25,7 +25,7 @@ body {
   text-align: center;
   transition: transform 0.6s;
   transform-style: preserve-3d;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.164);
 }
 
 .flip-card:hover .flip-card-inner {
@@ -44,7 +44,7 @@ body {
   background-image: url('https://i.pinimg.com/564x/c0/d1/94/c0d19485337437b7e6955ae26f737978.jpg');
   background-size: cover;
   background-position: center;
-  color: black;
+  color: white;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -70,7 +70,7 @@ body {
 h2, h1 {
   font-size: 2.4em;
   margin: 0; 
-  color: rgba(224, 239, 0, 0.75);
+  color: rgba(255, 255, 255, 0.75);
   font-weight: bold;
   text-align: center;
 }
@@ -93,8 +93,8 @@ p {
 /* Profile picture style */
 .profile-picture {
   overflow: hidden;
-  width: 80px; 
-  height: 80px;
+  width: 88px; 
+  height: 92px;
   border-radius: 50%;
   object-fit: cover;
 }
