@@ -1,7 +1,6 @@
 /* Corrected body styling */
 body {
-  display: flex; /* Added this line to enable flexbox */
-  background-image: url('https://i.pinimg.com/originals/d7/6c/b0/d76cb0858553975e0e21e27803908af6.gif');
+  background-image: url('https://i.pinimg.com/originals/a5/00/ce/a500cea59963d3187152da4b1b5d2981.gif');
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -52,7 +51,7 @@ body {
 
 /* Flip card back styles */
 .flip-card-back {
-  background-image: url('https://i.pinimg.com/originals/0b/63/10/0b63101d12d999ccfdb9923c83576534.gif');
+  background-image: url('https://i.pinimg.com/originals/a5/00/ce/a500cea59963d3187152da4b1b5d2981.gif');
   background-size: cover;
   background-position: center;
   transform: rotateY(180deg);
@@ -63,6 +62,7 @@ body {
   padding: 10px; 
   box-sizing: border-box; 
   overflow: auto; 
+}
 }
 
 /* Heading styles */
