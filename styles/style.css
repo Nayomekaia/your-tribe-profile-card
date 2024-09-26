@@ -1,5 +1,6 @@
 /* Corrected body styling */
 body {
+  display: flex; /* Added this line to enable flexbox */
   background-image: url('https://i.pinimg.com/originals/a5/00/ce/a500cea59963d3187152da4b1b5d2981.gif');
   flex-direction: column;
   align-items: center;
@@ -62,7 +63,6 @@ body {
   padding: 10px; 
   box-sizing: border-box; 
   overflow: auto; 
-}
 }
 
 /* Heading styles */
