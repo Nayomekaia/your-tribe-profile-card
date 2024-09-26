@@ -54,6 +54,7 @@ body {
 .flip-card-back {
   background-image: url('https://i.pinimg.com/originals/0b/63/10/0b63101d12d999ccfdb9923c83576534.gif');
   background-size: cover;
+  background-position: center;
   transform: rotateY(180deg);
   display: flex; 
   align-items: center;
@@ -62,6 +63,7 @@ body {
   padding: 10px; 
   box-sizing: border-box; 
   overflow: auto; 
+}
 }
 
 /* Heading styles */
