@@ -1,7 +1,6 @@
 /* Corrected body styling */
 body {
-  background-color: rgb(7, 0, 44);
-  display: flex;
+  background-image: url('https://i.pinimg.com/originals/a5/00/ce/a500cea59963d3187152da4b1b5d2981.gif');
   flex-direction: column;
   align-items: center;
   justify-content: center;
