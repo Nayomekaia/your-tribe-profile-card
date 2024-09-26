@@ -97,4 +97,9 @@ p {
   height: 92px;
   border-radius: 50%;
   object-fit: cover;
+  transition: transform 0.4s ease; 
+}
+
+.profile-picture:hover {
+  transform: scale(1.2); 
 }
