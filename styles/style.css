@@ -39,6 +39,7 @@ body {
     backface-visibility: hidden;
 }
 
+/*flip card front styles*/
 .flip-card-front {
   background-image: url('https://i.pinimg.com/564x/c0/d1/94/c0d19485337437b7e6955ae26f737978.jpg');
   background-size: cover;
@@ -50,44 +51,48 @@ body {
 }
 }
 
-/* Flip card back centered content */
 .flip-card-back {
-    background-color: #022f71;
-    color: white;
-    transform: rotateY(180deg);
-    display: flex; 
-    align-items: center;
-    justify-content: center;
-    flex-direction: column; 
+  background-color: #022f71;
+  color: white;
+  transform: rotateY(180deg);
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; 
+  padding: 10px; 
+  box-sizing: border-box; 
+  overflow: auto; 
 }
 
 /* Heading styles */
-h2 {
-    font-size: 2.6em;
-    margin: 0; 
-    color: rgba(224, 239, 0, 0.75);
-    font-weight: bold;
+h2, h1 {
+  font-size: 2.4em;
+  margin: 0; 
+  color: rgba(224, 239, 0, 0.75);
+  font-weight: bold;
+  text-align: center;
 }
 
 /* Paragraph styles */
 p {
-    font-size: 1.5em;
-    color: ghostwhite;
-    margin: 0.5em 0; 
+  font-size: 1em; 
+  color: ghostwhite;
+  margin: 0.3em 0; 
+  text-align: center; 
 }
 
 /* Icons container */
 .icons {
-    display: flex;
-    gap: 10px; 
-    color: ghostwhite;
+  display: flex;
+  gap: 10px; 
+  color: ghostwhite;
 }
 
 /* Profile picture style */
 .profile-picture {
-    overflow: hidden;
-    width: 100px; 
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
+  overflow: hidden;
+  width: 80px; 
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
 }
