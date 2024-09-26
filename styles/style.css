@@ -52,7 +52,7 @@ body {
 
 /* Flip card back styles */
 .flip-card-back {
-  ackground-image: url('https://i.pinimg.com/originals/0b/63/10/0b63101d12d999ccfdb9923c83576534.gif');
+  background-image: url('https://i.pinimg.com/originals/0b/63/10/0b63101d12d999ccfdb9923c83576534.gif');
   background-size: cover;
   transform: rotateY(180deg);
   display: flex; 
