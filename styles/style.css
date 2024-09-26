@@ -40,11 +40,14 @@ body {
 }
 
 .flip-card-front {
-    background-color: #bbb;
-    color: black;
-    display: flex; 
-    align-items: center;
-    justify-content: center;
+  background-image: url('https://i.pinimg.com/564x/c0/d1/94/c0d19485337437b7e6955ae26f737978.jpg');
+  background-size: cover;
+  background-position: center;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 }
 
 /* Flip card back centered content */
